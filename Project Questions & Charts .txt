@@ -1,19 +1,19 @@
 https://docs.bokeh.org/en/latest/docs/gallery/range_tool.html
-1. cumulative return 1yr, 2yr 3yr (bokeh range tool)
+1. cumulative return 1yr, 2yr 3yr (bokeh range tool) Abhilesh
 Q: Which ETF out perform the other
 Ans: TBD
 
 
-2. std dev, 
+2. std dev,  (Teron)
 Q: Appetite on Risk Fluctuation
 Ans:
 
 3. Monte Carlos
-Q: Forecast the risk
+Q: new conclusion
 Ans:
 
 
-https://python.plainenglish.io/beta-correlation-and-stock-returns-5bdbab53f4e6
+https://python.plainenglish.io/beta-correlation-and-stock-returns-5bdbab53f4e6 (James)
 4. Cumulative return
 Q: 
 Ans:
@@ -23,7 +23,7 @@ Q:
 Ans:
 
 
-https://towardsdatascience.com/calculating-sharpe-ratio-with-python-755dcb346805
+https://towardsdatascience.com/calculating-sharpe-ratio-with-python-755dcb346805 (Maurice)
 6. sharpe ratio 
 Q:
 Ans:
