@@ -14,8 +14,6 @@ Q:
 Ans:
 
 
-
-
 https://python.plainenglish.io/beta-correlation-and-stock-returns-5bdbab53f4e6 (James)
 4. Cumulative return
 Q: 
