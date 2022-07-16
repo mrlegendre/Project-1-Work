@@ -4,16 +4,13 @@ Q: Which ETF out perform the other
 Ans: TBD
 
 
-2. std dev,  (Maurice)
+2. std dev,  (Teron)
 Q: Appetite on Risk Fluctuation
 Ans:
 
-https://towardsdatascience.com/calculating-sharpe-ratio-with-python-755dcb346805 (Maurice)
-3. sharpe ratio 
-Q:
+3. Monte Carlos
+Q: new conclusion
 Ans:
-
-
 
 
 https://python.plainenglish.io/beta-correlation-and-stock-returns-5bdbab53f4e6 (James)
@@ -21,11 +18,12 @@ https://python.plainenglish.io/beta-correlation-and-stock-returns-5bdbab53f4e6 (
 Q: 
 Ans:
 
-5. Linear regression line Covariance (James)
+5. Linear regression line Covariance
 Q:
 Ans:
 
 
-6. Monte Carlos (Teron)
-Q: new conclusion
+https://towardsdatascience.com/calculating-sharpe-ratio-with-python-755dcb346805 (Maurice)
+6. sharpe ratio 
+Q:
 Ans:
