@@ -9,7 +9,7 @@ The choice of ETF's are ARK Innovation ETF (ARKK), 9 Billion MCap, profolio focu
 Both of the choosen ETFs are in the higher risk category, it will be very interesting to look at the calculated result between a traditional riskier profolio and a emerging crypto currency profolio compares and obviously summing up with the potential returns comparing to big indices like SP500 and Nasdaq. 
 
 ## 1. Introduction 
-To investigate the portfolio we ran different tests in python. First test was to clean the data and calculate daily returns. To have a better understanding of the data we created a visual plot by installing bokeh library. Bokeh is a Python library which allows to create interactive visualizations ranging from simple plots to complex dashboards. Compared to Matplotlib, Bokeh allows to create many sophisticated plots with fewer lines of code and have higher resolution. Below are the interactive timeseries charts created using the Bokeh library
+To investigate the portfolio we ran different tests in python. First test was to clean the data and calculate daily returns. To have a better understanding of the data we created a visual plot by installing bokeh library. Boke is a Python library which allows to create interactive visualizations ranging from simple plots to complex dashboards. Compared to Matplotlib, Bokeh allows to create many sophisticated plots with fewer lines of code and have higher resolution. Below are the interactive timeseries charts created using the Bokeh library
 
 ![](/Resources/Major_Indices.png)
 
