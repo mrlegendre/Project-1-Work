@@ -71,7 +71,7 @@ The Beta value of ARKK with respect to S&P500 1.3668171105674543
 
 Even though visually the Beta value swings much more for GBTC.  It's overall Beta value is more consistent with markets than that of ARKK for the period studied.
 
-
+ 
 ## 4. Monte Carlo Analysis
 
 We have conducted 3 Monte Carlo simulation with 3 different profolio configuration of $15,000
