@@ -101,9 +101,7 @@ There is a 95% chance that an initial investment of $15,000 in the portfolio ove
 Result Table
 
         Even        ARKK        GBTC
-
 Low     14070.82    7053.55     3786.28
-
 High    71855.74    64072.11    322990.18
 
  
