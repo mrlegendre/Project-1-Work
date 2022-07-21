@@ -99,9 +99,13 @@ There is a 95% chance that an initial investment of $15,000 in the portfolio ove
 There is a 95% chance that an initial investment of $15,000 in the portfolio over the next 3 years will end within in the range of $3786.28 and $322990.18.
 
 Result Table
+
         Even        ARKK        GBTC
+
 Low     14070.82    7053.55     3786.28
+
 High    71855.74    64072.11    322990.18
+
 
 
 ## Conclusion / Final Observation
