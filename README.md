@@ -57,7 +57,7 @@ ARKK has a **strong positive correlation** to both the NASDAQ and S&P500, but mo
 
 
 ### ARKK correlation wrt S&P500
-![](/Resources/ARKK-SP500-Linear Regression.png)
+![](/Resources/ARKK-SP500-LinearRegression.png)
 
 
 The variance of the NASDAQ for the period of data taken was 0.00019043096387163434
