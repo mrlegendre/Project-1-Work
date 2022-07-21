@@ -1,4 +1,4 @@
-#Group 3
+# Group 3
 
 # Profolio Analysis, Major Indices vs High Risk ETFs (Traditional/Crypto)
 
