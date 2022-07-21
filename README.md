@@ -57,7 +57,7 @@ ARKK has a **strong positive correlation** to both the NASDAQ and S&P500, but mo
 
 
 ### ARKK correlation wrt S&P500
-![](/Resources/ARKK-SP500-LinearRegression.png)
+![](/Resources/ARKK-SP500-Linear Regression.png)
 
 
 The variance of the NASDAQ for the period of data taken was 0.00019043096387163434
@@ -100,7 +100,7 @@ There is a 95% chance that an initial investment of $15,000 in the portfolio ove
 
 Result Table
 
-                Even        ARKK        GBTC
+                    Even            ARKK            GBTC
 
         Low         14070.82        7053.55         3786.28
 
