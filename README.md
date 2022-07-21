@@ -17,7 +17,7 @@ To investigate the portfolio we ran different tests in python. First test was to
 
 ![](/Resources/ETF's_vs_indices.png)
 
-![](/Resources/Daily_returns.png)
+![](/Resources/Daily_returns_new.png)
 
 
 ## 2. Sharpe Ratios
