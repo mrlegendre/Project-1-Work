@@ -20,15 +20,21 @@ We have conducted 3 Monte Carlo simulation with 3 different profolio configurati
 3. Majority GBTC, 70% GBTC / 10% SP500 / 10% Nasdaq / 10% ARKK
 
 Evenly Distributed
-![](/Resources/M-1-1.jpg)![](/Resources/M-1-2.jpg)
+
+![](/Resources/M-1-1.jpg)
+![](/Resources/M-1-2.jpg)
 There is a 95% chance that an initial investment of $15,000 in the portfolio over the next 3 years will end within in the range of $14070.82 and $71855.74.
 
 Majority ARKK
-![](/Resources/M-2-1.jpg)![](/Resources/M-2-2.jpg)
+
+![](/Resources/M-2-1.jpg)
+![](/Resources/M-2-2.jpg)
 There is a 95% chance that an initial investment of $15,000 in the portfolio over the next 3 years will end within in the range of $7053.55 and $64072.11.
 
 Majority GBTC
-![](/Resources/M-3-1.jpg)![](/Resources/M-3-2.jpg)
+
+![](/Resources/M-3-1.jpg)
+![](/Resources/M-3-2.jpg)
 There is a 95% chance that an initial investment of $15,000 in the portfolio over the next 3 years will end within in the range of $3786.28 and $322990.18.
 
 Result Table
