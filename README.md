@@ -1,4 +1,4 @@
-Topic: Profolio Analysis, Major Indices vs High Risk ETFs (Traditional/Crypto)
+## Topic: Profolio Analysis, Major Indices vs High Risk ETFs (Traditional/Crypto)
 
 We will be investigating into 2 Large MarketCap ETF's and benchmark their performance against Nasdaq and SP500.
 
@@ -8,7 +8,7 @@ Both of the choosen ETFs are in the higher risk category, it will be very intere
 
 ## 1. Abhilesh
 
-## 2.James
+## 2. James
 
 ## 3. Beta Analysis and Correlation
 The rolling 30 day Beta anlysis with both NASDAQ and S&P500 show that the GBTC generally swings more than positive and negative 1 which indicates it is NOT strongly correlated with either markets at all.
