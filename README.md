@@ -20,7 +20,18 @@ To investigate the portfolio we ran different tests in python. First test was to
 ![](/Resources/Daily_returns.png)
 
 
-## 2. James
+## 2. Sharpe Ratios
+
+Sharpe ratios are one of the many ways that we can calculate risk when dealing with a portfolio.
+You can calculate sharpe ratio by subtracting the risk free rate from total return of the portfolio,
+this can be used in almost any circumstance whether its with a government bond or a high risk
+crypto portfolio like what we analyzed for this assignment, as you can see on the graph
+NASDAQ and the S&P 500 have very similar, almost identical returns but when we look at the
+Grayscale Bitcoin ETF is much higher than the ARKK ETF. So what we can conclude is based
+off the graph is that the Greyscale Bitcoin ETF would be a much better investment than the
+ARKK ETF and marginally better than the average market return.
+
+![](/Resources/sharpe.png)
 
 ## 3. Beta Analysis and Correlation
 The rolling 30 day Beta anlysis with both NASDAQ and S&P500 show that the GBTC generally swings more than positive and negative 1 which indicates it is NOT strongly correlated with either markets at all.
@@ -84,18 +95,21 @@ We have conducted 3 Monte Carlo simulation with 3 different profolio configurati
 
 ![](/Resources/M-1-1.jpg)
 ![](/Resources/M-1-2.jpg)
+
 There is a 95% chance that an initial investment of $15,000 in the portfolio over the next 3 years will end within in the range of $14070.82 and $71855.74.
 
 ###### Majority ARKK
 
 ![](/Resources/M-2-1.jpg)
 ![](/Resources/M-2-2.jpg)
+
 There is a 95% chance that an initial investment of $15,000 in the portfolio over the next 3 years will end within in the range of $7053.55 and $64072.11.
 
 ###### Majority GBTC
 
 ![](/Resources/M-3-1.jpg)
 ![](/Resources/M-3-2.jpg)
+
 There is a 95% chance that an initial investment of $15,000 in the portfolio over the next 3 years will end within in the range of $3786.28 and $322990.18.
 
 Result Table
