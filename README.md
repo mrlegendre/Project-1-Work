@@ -6,7 +6,7 @@ The choice of ETF's are ARK Innovation ETF (ARKK), 9 Billion MCap, profolio focu
 
 Both of the choosen ETFs are in the higher risk category, it will be very interesting to look at the calculated result between a traditional riskier profolio and a emerging crypto currency profolio compares and obviously summing up with the potential returns comparing to big indices like SP500 and Nasdaq. 
 
-1 Abhilesh
+1 Abhilesh Test
 
 2 James Testing 
 
