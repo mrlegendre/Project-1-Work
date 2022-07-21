@@ -31,8 +31,14 @@ Grayscale Bitcoin ETF is much higher than the ARKK ETF. So what we can conclude 
 off the graph is that the Greyscale Bitcoin ETF would be a much better investment than the
 ARKK ETF and marginally better than the average market return.
 
+#### Standard Deviation
+
+![](/Resources/STD-bar.png)
+
 ![](/Resources/stddev.png)
 
+
+#### Sharpe Ratio
 ![](/Resources/sharpe.png)
 
 ## 3. Beta Analysis and Correlation
