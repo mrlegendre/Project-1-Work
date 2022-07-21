@@ -1,4 +1,4 @@
-## Topic: Profolio Analysis, Major Indices vs High Risk ETFs (Traditional/Crypto)
+# Topic: Profolio Analysis, Major Indices vs High Risk ETFs (Traditional/Crypto)
 
 We will be investigating into 2 Large MarketCap ETF's and benchmark their performance against Nasdaq and SP500.
 
